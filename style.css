@@ -1,0 +1,260 @@
+*{
+    background-color: #FFFFFF;
+    margin: 0;
+
+}
+
+.nav-header{
+    padding: 22px;
+
+}
+.nav-ul-a{
+    text-decoration: none;
+    float: right;
+    width: 100%;
+    margin-right: 100px;
+    
+    
+}
+.nav-ul-a a{
+    text-decoration: none;
+    color: #3B3B3B;
+    padding-left: 0px;
+    float: right;
+    margin-right: 30px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 80%;
+    padding-left: 10px;
+
+}
+#text-section1{
+    padding-top: 5%;
+}
+.half-width h1{
+    font-size: 55px;
+    font-weight: 500;
+    font-family: Bebas Neue;
+}
+.half-width h2{
+    font-size: 35px;
+    font-family: Bebas Neue;
+
+}
+#first-heading{
+    color: #363958;
+
+}
+#first-heading2{
+    color: #FF8367;
+    
+}
+#button-resume{
+    font-size: 15px;
+    color: white;
+    background-color: #FFC815;
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    
+}
+.about-me h2{
+    color: #363958;
+   
+}
+.latest-project{
+    height: 600px;
+    width: 100%;
+    background-color: #f7f4f4;
+    float: left;
+  
+}
+.latest-project h1{
+    color: #363958;
+
+}
+.project-heading{
+    background-color: #f7f4f4;
+    width: 100%;
+    padding-top: 100px;
+    text-align: center;
+    font-family: Bebas Neue;
+    font-size: 35px;
+   
+
+
+}
+
+.latest-text{
+    color: #FF8367;
+    background-color: #f7f4f4;
+
+}
+.container-project{
+    margin-left: 14%;
+    
+
+}
+.project-sample{
+    width: 23%;
+    margin-left: 2%;
+    float: left;
+    border-radius: 14px ;
+    padding-left: 15px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-right: px;
+    box-shadow: 5px 5px 15px rgb(214, 212, 212);
+
+
+
+    
+}
+.project-sample img{
+    height: 150px;
+    width: 245px;
+    padding-left: 8px;
+    
+    
+}
+.project-sample p{
+    color:  #363958;
+    font-size: 14px;
+    font-weight: 300;
+
+}
+.project-sample h3{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.inquiry-area{
+    background-image: url(images/22222.png);
+    float: left;
+    width: 50%;
+    height: 230px;
+    background-repeat: no-repeat;
+    margin-left: 26%;
+    margin-top: 80px;
+   
+
+}
+
+#heading-text{
+    background-color: transparent;
+    color: white;
+    font-size: 30px;
+
+    font-family: Bebas Neue;
+    padding-top: 57px;
+    padding-left: 25px;
+    position:absolute;
+    font-family: Bebas Neue;
+   
+
+
+}
+.button-quiry{
+    text-decoration: none;
+    background-color: tomato;
+    margin-left: 500px;
+    margin-top: 60px;
+    position: absolute;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding-left: 20px;
+    padding-right: 14px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+  
+
+
+}
+.social-icon-text{
+    float: left;
+    width: 100%;color: black;
+    text-align: center;
+    
+}
+
+.social-icon-text img{
+    height: 30px;
+    width: 30px;
+
+    
+}
+
+.social-icon-text h3{
+    font-family: Bebas Neue;
+    color: #696871;
+}
+.social-icon-text h2{
+    color: #363958;
+    font-size: 30px;
+}
+#icon1{
+    padding-right: 15px;
+}
+#icon3{
+    padding-left: 15px;
+}
+.client-feedback{
+    text-align: center;
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #363958;
+    margin-top: 20px;
+}
+.testimonial-text{
+    float: left;
+    width:27%;
+    margin-left: 5%;
+    height: 200px;
+    margin-bottom: 50px;
+    color: #363958;
+    box-shadow: 10px 10px #BAB390;
+    text-align: center;
+    
+
+}
+.testimonial-text h1{
+    font-size: 30px;
+}
+footer{
+    color: black;
+    float: left;
+    width: 100%;
+    margin:0;
+    padding: 0;
+    background-color: #e7e9eb;
+    height: 100px;
+}
+.footer-text{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    font-size: 15px;
+}
+.footer-text p{
+    background-color:#e7e9eb;
+
+
+}
