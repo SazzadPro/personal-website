@@ -9,12 +9,11 @@
 
 }
 .nav-ul-a{
-    text-decoration: none;
     float: right;
     width: 100%;
     margin-right: 100px;
-    
-    
+    margin-bottom: 40px;
+       
 }
 .nav-ul-a a{
     text-decoration: none;
@@ -44,7 +43,7 @@
     padding-top: 5%;
 }
 .half-width h1{
-    font-size: 55px;
+    font-size: 60px;
     font-weight: 500;
     font-family: Bebas Neue;
 }
@@ -97,8 +96,6 @@
     font-family: Bebas Neue;
     font-size: 35px;
    
-
-
 }
 
 .latest-text{
@@ -109,7 +106,6 @@
 .container-project{
     margin-left: 14%;
     
-
 }
 .project-sample{
     width: 23%;
@@ -121,17 +117,13 @@
     padding-bottom: 15px;
     padding-right: px;
     box-shadow: 5px 5px 15px rgb(214, 212, 212);
-
-
-
     
 }
 .project-sample img{
     height: 150px;
     width: 245px;
     padding-left: 8px;
-    
-    
+       
 }
 .project-sample p{
     color:  #363958;
@@ -142,7 +134,6 @@
 .project-sample h3{
     color: #363958;
     font-family: 'Roboto', sans-serif;
-
 }
 
 .inquiry-area{
@@ -153,23 +144,18 @@
     background-repeat: no-repeat;
     margin-left: 26%;
     margin-top: 80px;
-   
-
 }
 
 #heading-text{
     background-color: transparent;
     color: white;
-    font-size: 30px;
-
+    font-size: 35px;
     font-family: Bebas Neue;
     padding-top: 57px;
     padding-left: 25px;
     position:absolute;
     font-family: Bebas Neue;
    
-
-
 }
 .button-quiry{
     text-decoration: none;
@@ -183,22 +169,18 @@
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 5px;
+    color: white;
   
-
-
 }
 .social-icon-text{
     float: left;
     width: 100%;color: black;
-    text-align: center;
-    
+    text-align: center;  
 }
 
 .social-icon-text img{
     height: 30px;
-    width: 30px;
-
-    
+    width: 30px;  
 }
 
 .social-icon-text h3{
@@ -219,7 +201,7 @@
     text-align: center;
     width: 100%;
     float: left;
-    font-size: 30px;
+    font-size: 27px;
     color: #363958;
     margin-top: 20px;
 }
@@ -231,9 +213,7 @@
     margin-bottom: 50px;
     color: #363958;
     box-shadow: 10px 10px #BAB390;
-    text-align: center;
-    
-
+    text-align: center;  
 }
 .testimonial-text h1{
     font-size: 30px;
@@ -255,6 +235,4 @@ footer{
 }
 .footer-text p{
     background-color:#e7e9eb;
-
-
 }
